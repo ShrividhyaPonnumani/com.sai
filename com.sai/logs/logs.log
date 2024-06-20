@@ -1,0 +1,16 @@
+
+[INFO ] 2024-06-09 22:52:08.979 [main] Common_Step_Definition - Execution started
+[INFO ] 2024-06-09 22:52:08.983 [main] Common_Step_Definition - Instantiating the CommonUtils
+[INFO ] 2024-06-09 22:52:08.983 [main] Common_Step_Definition - Loading the properties file
+[INFO ] 2024-06-09 22:52:08.985 [main] Common_Step_Definition - Checking the driver is null or not
+[INFO ] 2024-06-09 22:52:08.986 [main] Common_Step_Definition - Driver is Null, Instantiating the browser
+[INFO ] 2024-06-09 22:52:10.106 [main] DriverManager - Launchingchrome
+[INFO ] 2024-06-09 22:52:18.471 [main] VerifyCEOName_Step_Def - the user is logged in succesfully the home page
+[INFO ] 2024-06-09 22:52:21.017 [main] VerifyCEOName_Step_Def - the user clicks on the directory option from the Menu bar
+[INFO ] 2024-06-09 22:52:25.171 [main] VerifyCEOName_Step_Def - the user selects the job titles as {string} from the drop down
+[INFO ] 2024-06-09 22:52:27.249 [main] VerifyCEOName_Step_Def - clicks the search button
+[INFO ] 2024-06-09 22:52:29.300 [main] VerifyCEOName_Step_Def - the user should see the CEO name as No Records Found
+[INFO ] 2024-06-09 22:52:29.308 [main] Common_Step_Definition - Execution started
+[INFO ] 2024-06-09 22:52:29.308 [main] Common_Step_Definition - Instantiating the CommonUtils
+[INFO ] 2024-06-09 22:52:29.308 [main] Common_Step_Definition - Loading the properties file
+[INFO ] 2024-06-09 22:52:29.309 [main] Common_Step_Definition - Checking the driver is null or not
